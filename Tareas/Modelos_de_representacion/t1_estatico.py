@@ -1,6 +1,6 @@
   # este es un ejemplo de representacion estatica
 
-catalogo_peliculas = {} # catalogo de informacion de peliculas
+catalogo_peliculas = {} # catalogo de peliculas
 
 
 def add_peliculas(titulo, director, mov_id, genero, year, clasificacion):
